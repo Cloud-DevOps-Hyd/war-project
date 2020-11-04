@@ -38,7 +38,8 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.121.226:8081/repository/WarDeployOne/</url>
+		    <!-- This is Comment line here -->
+	    <url>http://192.168.121.226:8081/repository/WarDeployOne/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
