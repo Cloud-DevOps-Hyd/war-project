@@ -33,13 +33,13 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http:/ 192.168.121.227:8081/repository/CloudDevOps-Release/</url>
+            <url>http:/ 192.168.121.137:8081/repository/6PM-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
 		    <!-- This is Comment line here -->
-	    <url>http://192.168.121.227:8081/repository/Cloud-DevOps-Snap/</url>
+	    <url>http://192.168.121.137:8081/repository/Cloud-DevOps-Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
